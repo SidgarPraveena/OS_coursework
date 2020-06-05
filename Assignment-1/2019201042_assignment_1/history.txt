@@ -1,0 +1,15 @@
+echo $PATH
+echo $HOSTNAME
+echo $HOSTNAME
+echo $USER
+echo $HOME
+alias ll=ls -al
+ll
+ps
+cat history.txt
+echo $HOME
+ll
+echo $HOME
+echo $USER
+echo $HOSTNAME
+exit

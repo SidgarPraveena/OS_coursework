@@ -1,0 +1,4 @@
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+na-HP-Laptop-15s-dr0xxx
+Praveena
+/home/praveena

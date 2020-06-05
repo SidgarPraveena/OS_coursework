@@ -1,0 +1,30 @@
+total 188
+drwxr-xr-x  4 praveena praveena   4096 Sep  9 04:39 .
+drwxr-xr-x 21 praveena praveena   4096 Sep  7 22:58 ..
+drwxr-xr-x  2 praveena praveena   4096 Sep  8 12:45 ammu
+-rwxr-xr-x  1 praveena praveena 127640 Sep  9 04:39 a.out
+drwxr-xr-x  8 praveena praveena   4096 Sep  9 00:41 .git
+-rw-r--r--  1 praveena praveena     81 Sep  9 04:40 history.txt
+-rw-r--r--  1 praveena praveena   1354 Sep  5 01:45 os_one.cpp
+-rw-r--r--  1 praveena praveena      4 Sep  7 23:08 README.md
+-rw-r--r--  1 praveena praveena   1383 Sep  7 21:45 sampleBash.cpp
+-rw-r--r--  1 praveena praveena    725 Sep  9 02:22 sampleFile.cpp
+-rw-r--r--  1 praveena praveena   7005 Sep  7 09:43 samplePipe.cpp
+-rw-r--r--  1 praveena praveena  11792 Sep  9 04:39 sampleTermios.cpp
+-rw-r--r--  1 praveena praveena      0 Sep  9 04:40 text.txt
+-rw-rw-r--  1 praveena praveena   1957 Sep  7 03:53 trie.cpp
+ammu
+a.out
+history.txt
+os_one.cpp
+README.md
+sampleBash.cpp
+sampleFile.cpp
+samplePipe.cpp
+sampleTermios.cpp
+text.txt
+trie.cpp
+ammu
+ammu
+hello
+llo
