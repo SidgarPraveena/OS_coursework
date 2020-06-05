@@ -1,0 +1,25 @@
+tracker.cpp
+
+compile: g++ tracker.cpp
+run: ./a.out
+
+clientAssign.cpp
+
+compile: g++ clientAssign.cpp sha1.cpp
+run ./a.out 1234 127.0.0.1 "text"
+
+tracker1.cpp
+
+compile: g++ tracker1.cpp -pthread sha1.cpp
+run: ./a.out 4040 127.0.0.0
+
+clientThread.cpp
+
+compile: g++ clientThread.cpp -pthread sha1.cpp
+run: ./a.out 4040 (port num)
+
+
+
+serverFile 
+
+clientFile
